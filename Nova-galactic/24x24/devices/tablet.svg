@@ -35,14 +35,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1592"
+     inkscape:window-height="845"
      id="namedview18"
      showgrid="false"
      inkscape:zoom="19.666667"
-     inkscape:cx="2.0847458"
+     inkscape:cx="-4.1949151"
      inkscape:cy="10.204142"
-     inkscape:current-layer="g31" />
+     inkscape:current-layer="g31"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1" />
   <g
      id="g31"
      transform="rotate(180,12.5,12.25)">
@@ -84,7 +87,7 @@
     <path
        id="path12"
        d="m 4,4 v 17 c 0,0.554 0.446,1 1,1 h 15 c 0.554,0 1,-0.446 1,-1 V 4 Z"
-       style="fill:#333333"
+       style="fill:#374155;fill-opacity:1"
        inkscape:connector-curvature="0" />
     <rect
        id="rect14"

@@ -35,14 +35,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
+     inkscape:window-width="783"
      inkscape:window-height="480"
      id="namedview22"
      showgrid="false"
      inkscape:zoom="19.666667"
      inkscape:cx="6.661017"
      inkscape:cy="9.9661017"
-     inkscape:current-layer="svg20" />
+     inkscape:current-layer="svg20"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0" />
   <rect
      width="16"
      height="20"
@@ -73,7 +76,8 @@
      cy="-12"
      r="5"
      transform="matrix(0,-1,-1,0,0,0)"
-     id="circle6" />
+     id="circle6"
+     style="fill:#4c566a;fill-opacity:1" />
   <circle
      style="fill:#c8c8c8;fill-opacity:1"
      cx="-14"

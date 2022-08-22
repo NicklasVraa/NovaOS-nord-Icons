@@ -11,7 +11,7 @@
    height="24"
    version="1.1"
    id="svg16"
-   sodipodi:docname="video-display.svg"
+   sodipodi:docname="computer.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata22">
@@ -40,7 +40,7 @@
      id="namedview18"
      showgrid="false"
      inkscape:zoom="13.906433"
-     inkscape:cx="15.577585"
+     inkscape:cx="1.5552976"
      inkscape:cy="9.5746973"
      inkscape:current-layer="svg16"
      inkscape:window-x="0"
@@ -74,11 +74,11 @@
      ry="1"
      id="rect6" />
   <path
-     style="fill:#5f697d;fill-opacity:1"
+     style="fill:#4c566a;fill-opacity:1"
      d="M 2 17 L 2 18 C 2 18.554 2.446 19 3 19 L 21 19 C 21.554 19 22 18.554 22 18 L 22 17 L 2 17 z"
      id="path8" />
   <path
-     style="fill:#4c566a;fill-opacity:1"
+     style="fill:#374155;fill-opacity:1"
      d="M 3 3 C 2.446 3 2 3.446 2 4 L 2 17 L 22 17 L 22 4 C 22 3.446 21.554 3 21 3 L 3 3 z"
      id="path10" />
   <rect

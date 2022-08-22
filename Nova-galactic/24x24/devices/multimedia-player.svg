@@ -11,7 +11,7 @@
    height="24"
    version="1"
    id="svg16"
-   sodipodi:docname="multimedia-player.svg"
+   sodipodi:docname="gnome-dev-ipod.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata22">
@@ -35,14 +35,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1592"
+     inkscape:window-height="845"
      id="namedview18"
      showgrid="false"
      inkscape:zoom="9.8333333"
      inkscape:cx="-27.661017"
      inkscape:cy="12"
-     inkscape:current-layer="svg16" />
+     inkscape:current-layer="svg16"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1" />
   <rect
      style="fill:#4c566a;fill-opacity:1"
      width="16"
@@ -54,7 +57,7 @@
      transform="scale(-1,1)"
      id="rect2" />
   <rect
-     style="fill:#333333"
+     style="fill:#374155;fill-opacity:1"
      width="14"
      height="8"
      x="5"

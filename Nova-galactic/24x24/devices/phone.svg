@@ -11,7 +11,7 @@
    height="24"
    version="1"
    id="svg12"
-   sodipodi:docname="gnome-phone-manager.svg"
+   sodipodi:docname="blueman-cellular.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata18">
@@ -35,14 +35,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
+     inkscape:window-width="783"
      inkscape:window-height="480"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="-7.8305085"
-     inkscape:cy="12"
-     inkscape:current-layer="svg12" />
+     inkscape:zoom="13.906433"
+     inkscape:cx="8.2277313"
+     inkscape:cy="10.058966"
+     inkscape:current-layer="svg12"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0" />
   <rect
      style="opacity:0.2"
      width="14"
@@ -57,7 +60,7 @@
      d="M 6 2 C 5.446 2 5 2.446 5 3 L 5 4 L 19 4 L 19 3 C 19 2.446 18.554 2 18 2 L 6 2 z M 5 18 L 5 21 C 5 21.554 5.446 22 6 22 L 18 22 C 18.554 22 19 21.554 19 21 L 19 18 L 5 18 z"
      id="path4" />
   <rect
-     style="fill:#333333"
+     style="fill:#374155;fill-opacity:1"
      width="14"
      height="14"
      x="5"
