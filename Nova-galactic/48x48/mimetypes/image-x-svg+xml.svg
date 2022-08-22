@@ -35,14 +35,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="952"
+     inkscape:window-height="499"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="-30.915254"
-     inkscape:cy="24"
-     inkscape:current-layer="svg26" />
+     inkscape:zoom="6.9532167"
+     inkscape:cx="25.267811"
+     inkscape:cy="20.099032"
+     inkscape:current-layer="svg26"
+     inkscape:window-x="960"
+     inkscape:window-y="554"
+     inkscape:window-maximized="0" />
   <rect
      style="opacity:0.2"
      width="40"
@@ -70,7 +73,7 @@
      d="M 11.951172,17 A 2,2 0 0 0 10,19 a 2,2 0 0 0 2,2 2,2 0 0 0 1.730469,-1 H 34.269531 A 2,2 0 0 0 36,21 2,2 0 0 0 38,19 2,2 0 0 0 36,17 2,2 0 0 0 34.269531,18 H 13.730469 A 2,2 0 0 0 12,17 a 2,2 0 0 0 -0.04883,0 z"
      id="path8" />
   <rect
-     style="fill:#bf616a;fill-opacity:1"
+     style="fill:#7d879b;fill-opacity:1"
      width="22"
      height="2"
      x="13"
@@ -99,7 +102,7 @@
      ry="1"
      id="rect16" />
   <circle
-     style="fill:#bf616a;fill-opacity:1"
+     style="fill:#7d879b;fill-opacity:1"
      cx="36"
      cy="18"
      r="2"
@@ -118,7 +121,7 @@
      d="M 7 6 C 5.338 6 4 7.338 4 9 L 4 10 C 4 8.338 5.338 7 7 7 L 41 7 C 42.662 7 44 8.338 44 10 L 44 9 C 44 7.338 42.662 6 41 6 L 7 6 z"
      id="path22" />
   <circle
-     style="fill:#bf616a;fill-opacity:1"
+     style="fill:#7d879b;fill-opacity:1"
      cx="12"
      cy="18"
      r="2"
