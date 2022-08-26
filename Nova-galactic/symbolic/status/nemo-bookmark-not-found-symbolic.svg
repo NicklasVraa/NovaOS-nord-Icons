@@ -10,14 +10,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="folder-symbolic.svg"
+   sodipodi:docname="nemo-bookmark-not-found-symbolic.svg"
    inkscape:export-filename="/home/sam/dev/RESOURCES/gnome-icon-theme-symbolic/src/gnome-stencils.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    height="16"
    id="svg7384"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    viewBox="0 0 16.0312 16"
    width="16.0312">
   <metadata
@@ -38,8 +38,8 @@
      bordercolor="#666666"
      borderopacity="1"
      inkscape:current-layer="layer13"
-     inkscape:cx="-18.633628"
-     inkscape:cy="13.750969"
+     inkscape:cx="5.2209535"
+     inkscape:cy="5.0298756"
      inkscape:document-units="px"
      gridtolerance="10"
      inkscape:guide-bbox="true"
@@ -61,12 +61,12 @@
      inkscape:snap-nodes="true"
      inkscape:snap-others="false"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="1026"
+     inkscape:window-height="1025"
      inkscape:window-maximized="1"
-     inkscape:window-width="1920"
+     inkscape:window-width="1912"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:zoom="8">
+     inkscape:window-y="28"
+     inkscape:zoom="32">
     <inkscape:grid
        dotted="false"
        empspacing="2"
@@ -75,8 +75,8 @@
        originx="-220.00009"
        originy="-42.010074"
        snapvisiblegridlinesonly="true"
-       spacingx="1px"
-       spacingy="1px"
+       spacingx="1"
+       spacingy="1"
        type="xygrid"
        visible="true" />
   </sodipodi:namedview>
@@ -128,7 +128,7 @@
        d="m 469.9065,182.98993 c -0.49245,0 -0.875,0.38256 -0.875,0.875 l 0,6.25 c 0,0.49244 0.38255,0.875 0.875,0.875 l 6.25,0 c 0.49245,0 0.875,-0.38256 0.875,-0.875 l 0,-6.25 c 0,-0.49244 -0.38255,-0.875 -0.875,-0.875 l -6.25,0 z m 2.125,1 2,0 0,4 -2,0 0,-4 z m 0,5 2,0 0,1 -2,0 0,-1 z"
        id="rect6718-3"
        sodipodi:nodetypes="ccccccccccccccccccc"
-       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#f57900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none" />
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#ebcb8b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none" />
   </g>
   <g
      inkscape:groupmode="layer"

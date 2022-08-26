@@ -19,3 +19,6 @@ Devices
 
 Mimes
 ![Mimes](meta/screen_3.png)
+
+In action (with [nova-galactic](https://github.com/NicklasVraa/Nova-galactic-theme) theme)
+![Action](meta/nova_preview.png)

@@ -35,21 +35,24 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
+     inkscape:window-width="783"
      inkscape:window-height="480"
      id="namedview10"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="-5.220339"
-     inkscape:cy="8"
-     inkscape:current-layer="svg8" />
+     inkscape:zoom="10.429825"
+     inkscape:cx="8.7032259"
+     inkscape:cy="12.075437"
+     inkscape:current-layer="svg8"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0" />
   <path
-     style="opacity:.35;fill:#f44336"
+     style="opacity:0.5;fill:#dfdfdf;fill-opacity:1"
      class="error"
      d="M 6,1 V 2 H 3 V 14 C 3,14.554 3.446,15 4,15 H 11 V 6 H 13 V 2 H 10 V 1 Z"
      id="path2" />
   <path
-     style="fill:#bf616a;fill-opacity:1"
+     style="fill:#dfdfdf;fill-opacity:1"
      class="error"
      d="M 3,12 V 14 C 3,14.554 3.446,15 4,15 H 11 V 12 Z"
      id="path4" />

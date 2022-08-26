@@ -11,7 +11,7 @@
    height="16"
    version="1.1"
    id="svg6"
-   sodipodi:docname="battery-level-0-symbolic.svg"
+   sodipodi:docname="battery-empty-symbolic.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata12">
@@ -35,16 +35,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="952"
+     inkscape:window-height="499"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="-5.220339"
-     inkscape:cy="8"
-     inkscape:current-layer="svg6" />
+     inkscape:zoom="20.85965"
+     inkscape:cx="8.5831144"
+     inkscape:cy="6.8218847"
+     inkscape:current-layer="svg6"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0" />
   <path
-     style="opacity:.35;fill:#f44336"
+     style="opacity:0.5;fill:#dfdfdf;fill-opacity:1"
      class="error"
      d="M 6,1 V 2 H 3 V 14 C 3,14.554 3.446,15 4,15 H 11 V 6 H 13 V 2 H 10 V 1 Z"
      id="path2" />
