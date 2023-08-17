@@ -1,11 +1,5 @@
 # Nova-galactic-icons
-Features 5000+ monochromatic* icons following the Nord color palette. It is a recolor and simplification of the Papirus icons. Every icon is an SVG, meaning they will be sharp at every size and resolution, and take up very little space.
-
-Check out the accompanying desktop [theme](https://github.com/NicklasVraa/Nova-galactic-theme).
-
-This was created for Nova-OS, a spin on the brilliant Linux Mint, on which I am currently working.
-
-*Icon indicators, such as warnings and errors, follow appropriate color conventions, but adjusted to fit the nord palette.
+The default icon pack for [NovaOS](https://github.com/NicklasVraa/NovaOS), a spin on Linux Mint, and a minimal clone of my personal setup.Features 5000+ monochromatic icons following the Nord color palette. Icon indicators, such as warnings and errors, follow appropriate color conventions, but adjusted to fit the nord palette. It is a recolor and simplification of the Papirus icons. Every icon is an SVG, meaning they will be sharp at every size and resolution, and take up very little space. Check out the accompanying desktop [theme](https://github.com/NicklasVraa/NovaOS-nord-Theme).
 
 ## Preview
 Folders
@@ -20,7 +14,7 @@ Devices
 Mimes
 ![Mimes](meta/screen_3.png)
 
-In action (with [nova-galactic](https://github.com/NicklasVraa/Nova-galactic-theme) theme)
+In action with matching [theme](https://github.com/NicklasVraa/NovaOS-nord-Theme)
 ![Action](meta/nova_preview.png)
 
 ---

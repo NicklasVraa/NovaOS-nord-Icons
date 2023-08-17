@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Nova-galactic
-Comment=Nova OS icon theme by Nicklas Vraa
+Name=NovaOS-nord
+Comment=Dark nord icon pack for Nova OS by Nicklas Vraa
 Inherits=breeze,hicolor
 
 Example=folder
